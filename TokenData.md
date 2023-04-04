@@ -1,0 +1,15 @@
+MainNet: rotpNiMiZk9Ud9zpV2VxbHRzTRG2C5gxZ6Dzeyz7njc
+DevNet: murUi9B8kw9NUU17sCvCV43GNefb1CBvm55HjTcyYhM
+
+Token:
+Creating token 6XPnA3mzsbC6EDjivPxCWHQiZJfvrE2LZ9DvpAy5sXLH under program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA
+
+Address:  6XPnA3mzsbC6EDjivPxCWHQiZJfvrE2LZ9DvpAy5sXLH
+Decimals:  10
+
+Signature: 4YStMXKn494T62FTHECxdVDxvKPHPVLkz8wkoHeBcRYgg9qtHaVUni8xVykPnAfJEKcnYYV3PKDQEMAoh359yaKD
+
+Token Account:
+Creating account 3RrowsUNat1h3zsBH9GdbhKhBBBpaUEKFRNEEH4x5vUf
+
+Signature: 5wnUNNurAcYQzX8ByYzNB2zx3QPwGE4aXnpYwWuSSsR4M8YjS2RYqVX5uLsEugGzKYoV27xt3rp1fKhE9qPjdQft 
